@@ -1,0 +1,98 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    filter: drop-shadow(0 10px 0.75rem crimson);
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    background-image: url(../Oudin-tp-web/images/dungeons-banner.png);
+    background-position: center;
+    background-size: cover;
+    height: 93vh;
+    width: 95vw;
+}
+
+@font-face {
+    font-family: 'Permanent Marker';
+    src: url('../Oudin-tp-web/fonts/PermanentMarker-Regular.ttf');
+}
+
+div > h1{
+    font-family: 'Permanent Marker';
+}
+
+p{
+    font-family: 'Permanent Marker';
+}
+
+head{
+    font-family: 'Permanent Marker';
+}
+
+.death{
+    background-image: url(../Oudin-tp-web/images/death.png);
+    color: brown;
+    filter: drop-shadow(0 10px 0.75rem rgb(78, 19, 31));
+    text-align: center;
+}
+
+a, a:hover{
+    text-decoration: none;
+    font-family: 'Permanent Marker';
+    color: rgb(255, 0, 0);
+    filter: drop-shadow(0 10px 0.75rem crimson);
+}
+
+.death2 {
+    color: brown;
+    filter: drop-shadow(0 10px 0.75rem rgb(78,19,31));
+}
+
+.gehenna {
+    background-image: url(../Oudin-tp-web/images/gehenna.png);
+    color: brown;
+    font-family: 'Permanent Marker';
+    filter: drop-shadow(0 10px 0.75rem rgb(47, 10, 18));
+}
+
+.enderman {
+    background-image: url(../Oudin-tp-web/images/enderman4.png);
+    color: rgb(230, 62, 62);
+    font-family: 'Permanent Marker';
+    filter: drop-shadow(0 10px 0.75rem rgb(47, 10, 18));
+}
+
+.end {
+    background-image: url(../Oudin-tp-web/images/endpng.png);
+    color: brown;
+    font-family: 'Permanent Marker';
+    filter: drop-shadow(0 10px 0.75rem rgb(47, 10, 18));
+}
+
+.end2 {
+    background-image: url(../Oudin-tp-web/images/endpng.png);
+    color: rgb(238, 64, 64);
+    font-family: 'Permanent Marker';
+    filter: drop-shadow(0 10px 0.75rem rgb(47, 10, 18));
+
+}
+
+.house {
+    background-image: url(../Oudin-tp-web/images/maison.jpg);
+    color: rgb(15, 4, 92);
+    font-family: 'Permanent Marker';
+    filter: drop-shadow(0 10px 0.75rem rgb(61, 127, 139));
+}
+
+.house2{
+    color: blue;
+    filter: drop-shadow(0 10px 0.75rem rgb(61, 127, 139));
+}
+
+.lol {
+    background-image: url(../Oudin-tp-web/images/defeat.jpg);
+    color: crimson;
+    filter: drop-shadow(0 10px 0.75rem rgb(158, 31, 31));
+
+}
